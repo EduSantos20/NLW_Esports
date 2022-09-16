@@ -4,7 +4,9 @@
 
 ---
 
-Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Invertido é incerto, repleto de obstáculos e perigos. Porém, a recompensa é grande: salvar Hawkings e o mundo todo das garras de Vecna. Você está preparado(a)?
+Projeto construído do evento Next Level Week da Rocketseat.
+
+-[🖥 Clique aqui para acessar](https://edusantos20.github.io/NLW_Esports/)
 
 ## ▶️ NLW eSports
 
@@ -19,6 +21,7 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
 
 - HTML
 - CSS
+- Git e Github
 
 ## 💬 Assuntos abordados
 
