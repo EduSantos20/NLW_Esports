@@ -36,7 +36,7 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
 
 ## 🎨 Variáveis de Animação CSS
 
-`/**Animation**/
+```/**Animation**/
 header div {
 animation: fromTop 0.7s 0.2s backwards;
 }
@@ -77,4 +77,4 @@ opacity: 1;
 transform: translateX(0);
 }
 }
-`
+```
